@@ -1,15 +1,16 @@
 {
   "name": "kukan",
   "license": "MIT",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
-    "test": "vitest run"
+    "test": "vitest run",
+    "build": "tsc"
   },
   "devDependencies": {
     "tsc": "^2.0.4",
     "tsx": "^4.10.5",
-    "vitest": "^1.6.0"
-  },
-  "dependencies": {
+    "vitest": "^1.6.0",
     "typescript": "^5.4.5"
   }
 }
