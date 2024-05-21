@@ -16,5 +16,5 @@ var __exportStar = (this && this.__exportStar) || function(m, exports) {
 Object.defineProperty(exports, "__esModule", { value: true });
 __exportStar(require("./bound"), exports);
 __exportStar(require("./compare"), exports);
-__exportStar(require("./interval"), exports);
 __exportStar(require("./intervals"), exports);
+__exportStar(require("./interval"), exports);
