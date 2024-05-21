@@ -5,7 +5,11 @@
     "test": "vitest run"
   },
   "devDependencies": {
-    "vitest": "^1.6.0",
-    "tsx": "^4.10.5"
+    "tsc": "^2.0.4",
+    "tsx": "^4.10.5",
+    "vitest": "^1.6.0"
+  },
+  "dependencies": {
+    "typescript": "^5.4.5"
   }
 }
