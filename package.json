@@ -1,4 +1,6 @@
 {
+  "name": "kukan",
+  "license": "MIT",
   "scripts": {
     "test": "vitest run"
   },
